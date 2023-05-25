@@ -1,0 +1,1 @@
+https://betweentwoparens.com/blog/deploy-clojurescript-to-github-pages/
